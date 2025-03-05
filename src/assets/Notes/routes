@@ -1,0 +1,19 @@
+What is routing in react?
+we r creating spa 
+moving one comp to another comp with out refreshing 
+they have three define components
+<Route>
+<Routes>
+<BrowserRouter> - used to be encapsulte the parent component
+
+npm install react-router-dom@6
+Tag -> <Link> </Link> - used to link hyper
+
+create a login page with authentication
+
+1. parent comp is :Master -maintain 3 links each link is navigate to the corresponding child comp
+child1:Electronics.jsx
+child2:Kids.jsx
+child3:Fashion.jsx
+
+Outlet comp - diffierentate the 
